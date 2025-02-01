@@ -1,0 +1,6 @@
+bin/
+bin-int/
+.vs/
+Minesweeper.vcxproj
+Minesweeper.vcxproj.user
+Minesweeper.vcxproj.filter
